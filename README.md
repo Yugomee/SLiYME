@@ -47,8 +47,8 @@ S-LiYME/
 │   └── loss.py
 ├── utils/
 │   ├── utils.py
-|   ├── llama_inference.ipynb
-|   └── song_crawling.ipynb
+│   ├── llama_inference.ipynb
+│   └── evaluate_w_rhyme.py
 ├── phonetic-word-embedding/
 ├── scripts/
 │   ├── train_refac.py
